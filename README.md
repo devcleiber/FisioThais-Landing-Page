@@ -1,4 +1,4 @@
-# Fisio-Tha-s---Landing-Page-
+# FisioThais-Landing-Page-
 
 Landing page developed for a physiotherapy professional.
 
